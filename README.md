@@ -15,3 +15,4 @@ Classmates! chat-gpt to help with command line errors
 ![Alt text](image.png)
 
 ## Deployed Link
+https://ronithenewcoder.github.io/text-editor/
